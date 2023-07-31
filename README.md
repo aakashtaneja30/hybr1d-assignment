@@ -13,6 +13,9 @@ with MySql db creds
 run npm install 
 run npm start 
 
+SQL scripts can be found in the file db scripts.sql
+
+
 # hybr1d assignment
 
 This application is generated using [LoopBack 4 CLI](https://loopback.io/doc/en/lb4/Command-line-interface.html) with the
@@ -71,7 +74,6 @@ npm run lint:fix
 
 ## Other useful commands
 
-- `npm run migrate`: Migrate database schemas for models
 - `npm run openapi-spec`: Generate OpenAPI spec into a file
 
 ## Tests
